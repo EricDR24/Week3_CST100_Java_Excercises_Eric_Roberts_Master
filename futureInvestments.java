@@ -1,6 +1,6 @@
 /** Program:  6.7 future investments
   * File:     futureInvestments.java 
-  * Summary:  computes future investments
+  * Summary:  Chapter 6, Excersise 7, computes future investments
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

@@ -1,6 +1,6 @@
 /** Program:  6.5 Sort three numbers
   * File:     sortThreeNumbers.java 
-  * Summary:  Sorts Three numbers in increasing order.
+  * Summary:  Chapter 6, excersise 5, Sorts Three numbers in increasing order.
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

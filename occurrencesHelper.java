@@ -1,6 +1,6 @@
 /** Program:  18.15 occurrences with helper
   * File:     occurrencesHelper.java 
-  * Summary:  displays occurrences in a string with a helper method
+  * Summary:  Chapter 18, Excersise 15, displays occurrences in a string with a helper method
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

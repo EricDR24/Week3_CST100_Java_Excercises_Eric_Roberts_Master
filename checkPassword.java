@@ -1,6 +1,6 @@
 /** Program:  6.18 Check Password
   * File:     checkPassword.java 
-  * Summary:  checks to see if password is valid
+  * Summary:  Chapter 6, Excersise 18, checks to see if password is valid
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

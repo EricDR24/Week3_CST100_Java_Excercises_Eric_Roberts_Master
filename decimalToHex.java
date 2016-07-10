@@ -1,6 +1,6 @@
 /** Program:  4.11 decimal to hex
   * File:     decimalToHex.java 
-  * Summary:  Converts decimals to hex value
+  * Summary:  Chapter 4, Excersise 11, Converts decimals to hex value
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

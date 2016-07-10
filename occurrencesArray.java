@@ -1,6 +1,6 @@
 /** Program:  18.17 occurrences with an array
   * File:     occurrencesHelper.java 
-  * Summary:  displays occurrences in an array
+  * Summary:  Chapter 18, Exercise 17, displays occurrences in an array
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

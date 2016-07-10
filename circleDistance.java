@@ -1,6 +1,6 @@
 /** Program:  4.2 circle distance
   * File:     circleDistance.java 
-  * Summary:  measures a distance between 2 piont
+  * Summary:  Chapter 4, Excersise 2, measures a distance between 2 piont
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

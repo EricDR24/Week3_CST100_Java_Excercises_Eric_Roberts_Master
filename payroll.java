@@ -1,6 +1,6 @@
 /** Program:  4.23
   * File:     payroll.java 
-  * Summary:  prints payroll for employees
+  * Summary:  Chapter 4, Excersise 23, prints payroll for employees
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

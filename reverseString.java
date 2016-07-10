@@ -1,6 +1,6 @@
 /** Program:  18.9 reverse string
   * File:     reverseString.java 
-  * Summary:  displays a string in reverse.
+  * Summary:  Chapter 18, Excersise 9 displays a string in reverse.
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

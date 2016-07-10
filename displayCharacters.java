@@ -1,6 +1,6 @@
 /** Program:  6.12 Display Characters
   * File:     displayCharacters.java 
-  * Summary:  displays ten characters per line seperated by one space.
+  * Summary:  Chapter 6, Excersise 12, displays ten characters per line seperated by one space.
   * Author:   Eric Roberts
   * Date:     July 2, 2016
 **/

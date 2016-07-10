@@ -1,6 +1,6 @@
 /** Program:  18.2 fibonacciNumbers
   * File:     fibonacciNumbers.java 
-  * Summary:  displays the index fibonacci number
+  * Summary:  Chapter 18, Excersise 2, displays the index fibonacci number
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

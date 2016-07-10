@@ -1,6 +1,6 @@
 /** Program:  18.25 String permutation
   * File:     stringPermutation.java 
-  * Summary:  displays all the permutations of a string
+  * Summary:  Chapter 18, Excersise 25, displays all the permutations of a string
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

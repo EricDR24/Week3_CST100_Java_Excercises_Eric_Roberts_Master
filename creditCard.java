@@ -1,6 +1,6 @@
 /** Program:  6.31 credit card check
   * File:     creditCard.java 
-  * Summary:  checks to see if credit card is valid
+  * Summary:  Chapter 6, Excersise 31, checks to see if credit card is valid
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/

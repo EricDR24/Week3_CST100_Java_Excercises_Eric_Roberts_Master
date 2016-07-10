@@ -1,6 +1,6 @@
 /** Program:  18.10 occurrences in a string
   * File:     occurrences.java 
-  * Summary:  displays occurrences in a string
+  * Summary:  Chapter 18, Excersise 10, displays occurrences in a string
   * Author:   Eric Roberts
   * Date:     July 3, 2016
 **/
